@@ -30,6 +30,7 @@ article img{
   float: left;
   align:left;
   margin: 0px 10px 0px 0px;
+  
 
 }   
 
@@ -63,6 +64,8 @@ article{
   background-color:#9EC4C5; 
   color:white; 
   padding:10px;
+  Color: #008080;
+  Font-weight: bold;
 }
 
 footer{ 
